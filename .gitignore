@@ -1,0 +1,7 @@
+node_modules
+dist
+.DS_Store
+*.log
+.vercel
+# private, copyrighted track for local preview only
+public/audio/local-theme.mp3
